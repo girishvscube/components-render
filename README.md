@@ -4,7 +4,7 @@
   Install Dependencies:
 
    Open your terminal.
-   Navigate to the directory where your frontend code is located.
+   Navigate to the directory where  frontend code is located.
    Run npm i to install the dependencies.
    Run the Application:
 
